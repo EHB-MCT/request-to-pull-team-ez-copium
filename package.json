@@ -1,0 +1,24 @@
+{
+  "name": "request-to-pull-team-ez-copium",
+  "version": "1.0.0",
+  "description": "Deze opdracht werken jullie uit per 4. Iedereen doet 1 van de volgende opdrachten:",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EHB-MCT/request-to-pull-team-ez-copium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EHB-MCT/request-to-pull-team-ez-copium/issues"
+  },
+  "homepage": "https://github.com/EHB-MCT/request-to-pull-team-ez-copium#readme"
+}
